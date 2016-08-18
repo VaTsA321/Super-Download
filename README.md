@@ -1,2 +1,2 @@
 # Super-Download
-A super-fast multithreaded download
+A super-fast multithreaded downloader
